@@ -1,6 +1,6 @@
 ### こんにちは、けいこです 💓
 
-🌱 Main languages/frameworks: 
+🌱 Main languages/frameworks: <br/>
 Python 🐍 | C 🔷 | HTML </> | SQL 💻 <br/>
 
 📫 How to reach me: <br/> 
