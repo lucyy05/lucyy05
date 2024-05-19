@@ -1,4 +1,4 @@
-### こんにちは、けいこです 💓
+### Hi I'm Lucy! 💓
 
 🌱 Main languages/frameworks: <br/>
 Python 🐍 | C 🔷 | HTML </> | SQL 💻 <br/>
