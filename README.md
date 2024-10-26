@@ -1,7 +1,7 @@
 ## Hi I'm Lucy! 💓
 
-🌱 Main languages/frameworks: <br/>
-Python 🐍 | C 🔷 | SQL 💻 <br/>
+🌱 Main languages: <br/>
+Python | C | C++ | SQL <br/>
 
 📫 How to reach me: <br/> 
 - [LinkedIn 🌐](https://www.linkedin.com/in/zhu-zihui05/)
