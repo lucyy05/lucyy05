@@ -1,4 +1,4 @@
-## Hi I'm Lucy & I code! 💻🤖💓
+## Hello! I'm Lucy:) 💻🤖💓
 
 🌱 Main languages/frameworks: <br/>
 Python | C++ | C | SQL <br/>
